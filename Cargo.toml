@@ -13,7 +13,7 @@
 edition = "2021"
 rust-version = "1.69.0"
 name = "near-vm-logic"
-version = "0.14.0"
+version = "0.17.0"
 authors = ["Near Inc <hello@nearprotocol.com>"]
 publish = true
 description = "This crate implements the specification of the interface that Near blockchain exposes to the smart contracts."
